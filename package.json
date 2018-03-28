@@ -1,0 +1,24 @@
+{
+  "name": "building-api",
+  "version": "1.0.0",
+  "description": "Express api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashxdiep/building-api.git"
+  },
+  "author": "ash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashxdiep/building-api/issues"
+  },
+  "homepage": "https://github.com/ashxdiep/building-api#readme",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+  }
+}
